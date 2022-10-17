@@ -1,7 +1,7 @@
 ﻿//Pedro Castaneda
 //10-17-2022
 //Add Two Numbers
-//Create a program that will take two numbers given by user and adds them together and shows the sum
+//Create a program that will take two numbers given by user and adds them together and shows the sum. Have validation features
 
 bool run = true;
 
