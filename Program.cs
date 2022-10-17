@@ -15,7 +15,7 @@ while(run)
     int total;
     string userInput;
      
-    Console.WriteLine("Welcome to Add Two Numbers!");
+    Console.WriteLine("Welcome to Math Wizard!");
     Console.WriteLine("Please give me two numbers to add together");
     Console.WriteLine();
     Console.WriteLine("Enter first number:");
