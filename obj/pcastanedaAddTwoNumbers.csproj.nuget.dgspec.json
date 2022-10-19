@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\pcastanedaAddTwoNumbers\\pcastanedaAddTwoNumbers.csproj": {}
+    "/Users/comanders/Documents/GitResptory/pcastanedaAddTwoNumbers/pcastanedaAddTwoNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\pcastanedaAddTwoNumbers\\pcastanedaAddTwoNumbers.csproj": {
+    "/Users/comanders/Documents/GitResptory/pcastanedaAddTwoNumbers/pcastanedaAddTwoNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\pcastanedaAddTwoNumbers\\pcastanedaAddTwoNumbers.csproj",
+        "projectUniqueName": "/Users/comanders/Documents/GitResptory/pcastanedaAddTwoNumbers/pcastanedaAddTwoNumbers.csproj",
         "projectName": "pcastanedaAddTwoNumbers",
-        "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\pcastanedaAddTwoNumbers\\pcastanedaAddTwoNumbers.csproj",
-        "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\pcastanedaAddTwoNumbers\\obj\\",
+        "projectPath": "/Users/comanders/Documents/GitResptory/pcastanedaAddTwoNumbers/pcastanedaAddTwoNumbers.csproj",
+        "packagesPath": "/Users/comanders/.nuget/packages/",
+        "outputPath": "/Users/comanders/Documents/GitResptory/pcastanedaAddTwoNumbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/comanders/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
